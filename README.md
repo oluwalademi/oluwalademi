@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Oluwalademi 👻🎮  
+# Hi, I'm Oluwalademi 👻🎮 ---  oluwalademi.github.io/
 
 I thrive at the intersection of **technology, creativity, and interactive experiences**, constantly exploring how **game development and human-computer interaction (HCI)** can shape engaging digital worlds. With a **strong foundation in computer science** and hands-on experience in **game design, immersive storytelling, and UI/UX**, my passion lies in crafting intuitive and impactful gaming experiences.  
 
